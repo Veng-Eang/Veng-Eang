@@ -19,3 +19,29 @@ jobs:
           TIME_RANGE: all_time
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
+<<<<<<< HEAD
+=======
+          LANG_COUNT: 10
+# name: Waka Readme
+
+# on:
+#   workflow_dispatch:
+#   schedule:
+#     # Runs at 12am UTC
+#     - cron: "0 0 * * *"
+
+# jobs:
+#   update-readme:
+#     name: WakaReadme DevMetrics
+#     runs-on: ubuntu-latest
+#     steps:
+#       - uses: athul/waka-readme@master
+#         with:
+#           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+#           SHOW_TITLE: true
+#           BLOCKS: ->
+#           TIME_RANGE: all_time
+#           SHOW_TIME: true
+#           SHOW_MASKED_TIME: true
+>>>>>>> 2476c6c4d0fe8f9824369cc09f6c8e9d64542744
+>>>>>>> 26fde9dc99b0510b76595d365dbaed296e22934a
