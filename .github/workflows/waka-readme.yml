@@ -1,16 +1,11 @@
 name: Waka Readme
 
 on:
+  workflow_dispatch:
   schedule:
-<<<<<<< HEAD
     # Runs at 12am UTC
     - cron: "0 0 * * *"
 
-=======
-    # Runs at 12am IST
-    - cron: '30 18 * * *'
-  workflow_dispatch:
->>>>>>> 2476c6c4d0fe8f9824369cc09f6c8e9d64542744
 jobs:
   update-readme:
     name: WakaReadme DevMetrics
@@ -19,15 +14,12 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-<<<<<<< HEAD
           SHOW_TITLE: true
           BLOCKS: ->
           TIME_RANGE: all_time
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
           LANG_COUNT: 10
-=======
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
 # name: Waka Readme
 
 # on:
