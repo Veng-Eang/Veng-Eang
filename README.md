@@ -50,7 +50,7 @@
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <div>
-  <p>Credit to: </p><a href="https://github.com/sokunheng">sokunheng</a>
+  <p>Credit to: <a href="https://github.com/sokunheng">sokunheng</a></p>
 
   <!-- <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
