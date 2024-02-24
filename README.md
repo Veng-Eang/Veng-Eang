@@ -44,15 +44,15 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Veng-Eang&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SokunHeng&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Veng-Eang&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <div>
-
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=SokunHeng">
-  <img alt="Discord" src="https://img.shields.io/discord/578930169251758080?logo=discord">
+  <p>Cr: </p>
+  <!-- <img alt="Profile views" src="https://komarev.com/ghpvc/?username=SokunHeng"> -->
+  <img alt="Github" src="https://github.com/sokunheng">
 
   <!-- <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
